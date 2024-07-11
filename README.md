@@ -1,3 +1,5 @@
+
+![Screenshot 2024-07-11 232043](https://github.com/anubhav7631/CODETECH-Task1/assets/142887222/d7a1356a-3cfa-4bea-a6e9-10f7baf1247f)
 Name:Anubhav Kumar
 Company:CODTECH IT SOLUTIONS
 Domain:Frontend Web Development
